@@ -16,6 +16,7 @@
 	<modules>
 		<module>kafka-producer-wikemedia</module>
 		<module>kafka-consumer-wikimedia</module>
+		<module>kafka-api-wikimedia</module>
 	</modules>
 	<packaging>pom</packaging>
 	<url/>

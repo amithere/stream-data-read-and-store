@@ -3,6 +3,10 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+!pom.xml
+!kafka-api-wikimedia
+!kafka-consumer-wikimedia
+!kafka-producer-wikemedia
 
 ### STS ###
 .apt_generated
